@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Appiadas</string>
+
+    <string name="label_joker_hint">Aqui será exibida a piada.</string>
+    <string name="button_new_joker">Contar outra piada</string>
+
+    <string name="joker_one">Por que a aranha é o animal mais carente do mundo?</string>
+    <string name="joker_two">Por que o pinheiro não se perde na floresta?</string>
+    <string name="joker_three">O que um pagodeiro foi fazer na igreja?</string>
+    <string name="joker_four">Por que o Napoleão era chamado sempre pras festas?</string>
+    <string name="joker_five">Qual é o rei dos queijos?</string>
+    <string name="joker_six">Por que a velhinha não usa relógio?</string>
+    <string name="joker_seven">Quando os americanos comeram carne pela primeira vez?</string>
+
+    <string name="joker_one_answer">Porque ela é um aracneedyou.</string>
+    <string name="joker_two_answer">Porque ele tem uma pinha.</string>
+    <string name="joker_three_answer">Foi cantar PÁ GOD.</string>
+    <string name="joker_four_answer">Porque ele era BOM NA PARTY.</string>
+    <string name="joker_five_answer">É o reiqueijão.</string>
+    <string name="joker_six_answer">Porque ela é senhora.</string>
+    <string name="joker_seven_answer">Quando chegou Cristovão Com Lombo.</string>
+</resources>

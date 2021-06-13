@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Appiadas</string>
+    <string name="label_joker_hint">Aquí se mostrará el chiste</string>
+    <string name="button_new_joker">Cuenta otro chiste</string>
+
+    <string name="joker_one"> ¿Por qué la araña es el animal más necesitado del mundo? </string>
+    <string name="joker_two"> ¿Por qué el pino no se pierde en el bosque? </string>
+    <string name="joker_three"> ¿Qué hacía una pagoda en la iglesia? </string>
+    <string name="joker_four"> ¿Por qué siempre llamaban a Napoleón a las fiestas? </string>
+    <string name="joker_five"> ¿Cuál es el rey del queso?</string>
+    <string name="joker_six"> ¿Por qué la anciana no usa reloj? </string>
+    <string name="joker_seven"> ¿Cuándo comen carne por primera vez los estadounidenses?</string>
+
+    <string name="joker_one_answer"> Porque ella es un arachneedyou.</string>
+    <string name="joker_two_answer"> Porque tiene una piña.</string>
+    <string name="joker_three_answer"> Fui a cantar PADDLE GOD.</string>
+    <string name="joker_four_answer"> Porque estuvo BUENO EN LA FIESTA.</string>
+    <string name="joker_five_answer"> Es el pastel de queso.</string>
+    <string name="joker_six_answer"> Porque es una dama.</string>
+    <string name="joker_seven_answer"> Cuando llegó Cristovão Com Lombo.</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="jokers">
+        <item>@string/joker_one</item>
+        <item>@string/joker_two</item>
+        <item>@string/joker_three</item>
+        <item>@string/joker_four</item>
+        <item>@string/joker_five</item>
+        <item>@string/joker_six</item>
+        <item>@string/joker_seven</item>
+    </string-array>
+
+    <string-array name="jokers_answers">
+        <item>@string/joker_one_answer</item>
+        <item>@string/joker_two_answer</item>
+        <item>@string/joker_three_answer</item>
+        <item>@string/joker_four_answer</item>
+        <item>@string/joker_five_answer</item>
+        <item>@string/joker_six_answer</item>
+        <item>@string/joker_seven_answer</item>
+    </string-array>
+</resources>

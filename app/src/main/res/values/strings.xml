@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Appiadas</string>
+    <string name="label_joker_hint">Here the joke will be displayed</string>
+    <string name="button_new_joker">Tell another joke</string>
+
+    <string name="joker_one">Why is the spider the most needy animal in the world?</string>
+    <string name="joker_two">Why doesn\'t the pine get lost in the forest?</string>
+    <string name="joker_three">What did a pagodeiro do in church?</string>
+    <string name="joker_four">Why was Napoleon always called to parties?</string>
+    <string name="joker_five">Which is the king of cheese?</string>
+    <string name="joker_six">Why doesn\'t the old lady wear a watch?</string>
+    <string name="joker_seven">When did Americans first eat meat?</string>
+
+    <string name="joker_one_answer">Because she is an arachneedyou.</string>
+    <string name="joker_two_answer">Because he has a pine cone.</string>
+    <string name="joker_three_answer">Went singing PADDLE GOD.</string>
+    <string name="joker_four_answer">Because he was GOOD IN THE PARTY.</string>
+    <string name="joker_five_answer">It\'s the cheesecake.</string>
+    <string name="joker_six_answer">Because she\'s a lady.</string>
+    <string name="joker_seven_answer">When Cristovão Com Lombo arrived.</string>
+</resources>

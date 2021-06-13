@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/Container"
+    tools:context="com.example.appiadas.MainActivity">
+
+    <TextView
+        android:id="@+id/tvJoker"
+        style="@style/Label"
+        android:text="@string/label_joker_hint" />
+
+    <TextView
+        android:id="@+id/tvJokerResult"
+        style="@style/LabelResult"
+        android:visibility="gone"
+        tools:visibility="visible"
+        tools:text="@string/label_joker_hint"
+        android:text="@string/label_joker_hint" />
+
+    <Button
+        android:id="@+id/btTellJoker"
+        style="@style/Button"
+        android:text="@string/button_new_joker" />
+
+</LinearLayout>
